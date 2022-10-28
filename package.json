@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/ilanangelesrodriguez/projectNPM/issues"
   },
-  "homepage": "https://github.com/ilanangelesrodriguez/projectNPM#readme"
+  "homepage": "https://github.com/ilanangelesrodriguez/projectNPM#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0"
+  }
 }
